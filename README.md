@@ -20,7 +20,7 @@ I’m actively working on building out additional features and pages, including:
 - [ ] **Responsive design** using media queries
 
 
-Code updates and enhancements will be uploaded **daily** as development continues.
+Code updates and enhancements will be uploaded daily as development continues.
 
 💻 Tech Stack
 
