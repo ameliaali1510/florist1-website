@@ -27,8 +27,6 @@ Code updates and enhancements will be uploaded daily as development continues.
 - HTML5
 - CSS3
 
-🚧 Disclaimer
-
 This project is a work in progress and not yet finalised. Feedback and suggestions are welcome as development continues!
 
 
